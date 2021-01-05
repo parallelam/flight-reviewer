@@ -1,6 +1,8 @@
 ## OpenFlights 
 ### A flight reviews app built with Ruby on Rails and React.js
 
+Interactive Demo Available at: https://flight-reviewer.herokuapp.com/
+
 This app is intended to be a simple example of a CRUD app built with **Ruby on Rails** and **React.js** using **Webpacker**.
 
 ---
